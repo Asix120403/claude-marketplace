@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "xcodeproj": {
+      "command": "mise",
+      "args": [
+        "x",
+        "spm:giginet/xcodeproj-mcp-server@1.4.0",
+        "--",
+        "xcodeproj-mcp-server"
+      ]
+    }
+  }
+}

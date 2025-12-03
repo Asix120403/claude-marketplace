@@ -1,0 +1,14 @@
+{
+  "name": "xcode",
+  "version": "1.0.0",
+  "description": "Best practices and guidelines for Xcode and Apple platform development",
+  "author": {
+    "name": "Tuist",
+    "url": "https://tuist.dev"
+  },
+  "homepage": "https://github.com/tuist/claude-marketplace/tree/main/plugins/xcode",
+  "repository": "https://github.com/tuist/claude-marketplace",
+  "license": "MIT",
+  "keywords": ["xcode", "swift", "swiftui", "uikit", "ios", "macos", "apple"],
+  "mcpServers": "./.mcp.json"
+}

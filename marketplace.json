@@ -1,0 +1,34 @@
+{
+  "name": "tuist-marketplace",
+  "metadata": {
+    "description": "A collection of Claude Code plugins for Tuist users",
+    "version": "1.0.0",
+    "pluginRoot": "./plugins"
+  },
+  "owner": {
+    "name": "Tuist",
+    "email": "contact@tuist.dev",
+    "url": "https://tuist.dev"
+  },
+  "plugins": [
+    {
+      "name": "xcode",
+      "source": "./plugins/xcode",
+      "description": "Best practices and guidelines for Xcode and Apple platform development",
+      "version": "1.0.0",
+      "author": {
+        "name": "Tuist"
+      },
+      "keywords": [
+        "xcode",
+        "swift",
+        "swiftui",
+        "uikit",
+        "ios",
+        "macos",
+        "apple"
+      ],
+      "category": "development"
+    }
+  ]
+}
