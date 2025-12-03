@@ -47,5 +47,5 @@ When building through an agent or CI, disable code signing:
 ```bash
 xcodebuild build \
   -scheme MyScheme \
-  CODE_SIGNING_ALLOWED=NO
+  CODE_SIGN_IDENTITY=""
 ```
