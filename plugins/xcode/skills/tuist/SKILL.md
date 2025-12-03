@@ -15,12 +15,15 @@ tuist generate --no-open
 
 ## Target Declaration
 
-Prefer buildable folders when declaring targets to avoid regenerating projects on file changes:
+Use `buildableFolders` when declaring targets to avoid regenerating projects on file changes:
 
 ```swift
 let target = Target(
     name: "MyApp",
-    sources: "Sources/**"  // Glob pattern - no regeneration needed
+    destinations: [.iPhone],
+    product: .app,
+    bundleId: "com.example.app",
+    buildableFolders: [.sources, .resources]
 )
 ```
 
@@ -35,4 +38,14 @@ xcodebuild build \
   CLANG_ENABLE_COMPILE_CACHE=YES \
   SWIFT_ENABLE_EXPLICIT_MODULES=YES \
   SWIFT_USE_INTEGRATED_DRIVER=YES
+```
+
+## Disable Signing for CI/Agent Builds
+
+When building through an agent or CI, disable code signing:
+
+```bash
+xcodebuild build \
+  -scheme MyScheme \
+  CODE_SIGNING_ALLOWED=NO
 ```
