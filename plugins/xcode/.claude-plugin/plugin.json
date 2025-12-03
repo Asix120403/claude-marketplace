@@ -9,6 +9,14 @@
   "homepage": "https://github.com/tuist/claude-marketplace/tree/main/plugins/xcode",
   "repository": "https://github.com/tuist/claude-marketplace",
   "license": "MIT",
-  "keywords": ["xcode", "swift", "swiftui", "uikit", "ios", "macos", "apple"],
+  "keywords": [
+    "xcode",
+    "swift",
+    "swiftui",
+    "uikit",
+    "ios",
+    "macos",
+    "apple"
+  ],
   "mcpServers": "./.mcp.json"
 }
